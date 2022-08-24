@@ -1,5 +1,5 @@
 # Portfólio
-### Trabalho acadêmico da disciplina de Ferramentas de Desenvolvimento Web
+Trabalho acadêmico da disciplina de Ferramentas de Desenvolvimento Web
 
 ### Como rodar localmente
 
